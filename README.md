@@ -25,7 +25,7 @@ cd maclike-fcitx5-themes
 
 ```bash
 mkdir -p ~/.local/share/fcitx5/themes
-cp -r macOS-dark ~/.local/share/fcitx5/themes/
+cp -r macOS-dark ~/.local/share/fcitx5/themes/macOS-dark 
 ```
 
 ## 启用主题
